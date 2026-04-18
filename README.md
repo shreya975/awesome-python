@@ -454,6 +454,7 @@ _Libraries for data analysis._
   - [aws-sdk-pandas](https://github.com/aws/aws-sdk-pandas) - Pandas on AWS.
   - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
   - [desbordante](https://github.com/desbordante/desbordante-core/) - An open source data profiler for complex pattern discovery.
+  - [data-profiling](https://github.com/Data-Centric-AI-Community/data-profiling) - Generate detailed data profiling reports for pandas DataFrames
   - [ibis](https://github.com/ibis-project/ibis) - A portable Python dataframe library with a single API for 20+ backends.
   - [modin](https://github.com/modin-project/modin) - A drop-in pandas replacement that scales workflows by changing a single line of code.
   - [pandas](https://github.com/pandas-dev/pandas) - A library providing high-performance, easy-to-use data structures and data analysis tools.
